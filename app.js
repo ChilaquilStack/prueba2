@@ -1,7 +1,5 @@
 "use strict"
 
-const show_message = msj => msj;
+const show_message = msj => console.log(msg);
 
-const message = show_message('Hola Mundo!');
-
-console.log(message);
+show_message('Hola coders');

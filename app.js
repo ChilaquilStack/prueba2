@@ -1,5 +1,3 @@
 "use strict"
 
-function show_message( msj ){
- return msj;
-}
+const show_message = msj => msj
